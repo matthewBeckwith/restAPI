@@ -56,6 +56,13 @@ typings/
 
 # dotenv environment variables file
 .env
+nodemon.json
 
 # next.js build output
 .next
+
+# folder mongodb uses to store files
+/uploads
+
+# package-lock file
+package-lock.json
